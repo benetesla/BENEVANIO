@@ -15,7 +15,7 @@ body,
 }
 
 body {
-    background: url(../imagens/R.jfif), url(../imagens/ruido.png), linear-gradient(50deg, #7a7ae4, #a4be0b);
+    background: linear-gradient(50deg, #7a7ae4, #a4be0b);
     background-attachment: fixed;
     font-family: Helvetica, Arial, sans-serif;
 }
