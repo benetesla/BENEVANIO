@@ -26,11 +26,11 @@ body {
 
 nav.navbar-transparente {
     padding: 15px 0px;
-    background: rgba(156, 151, 151, 0.6);
+    background: rgba(19, 18, 18, 0.6);
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: white;
+    color: rgb(14, 13, 13);
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
@@ -42,10 +42,14 @@ nav.navbar-transparente {
     border-color: rgba(19, 17, 17, 0.5);
 }
 
-.divisor {
-    width: 1px;
-    background: rgb(24, 23, 23);
-    margin: 12px 15px;
+ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+#pagina01 {
+    background-color: #0a0a0a;
 }
 
 
@@ -71,7 +75,7 @@ nav.navbar-transparente {
 }
 
 .btn-roxo:hover {
-    background: #bebec5;
+    background: #111111;
     color: rgb(2, 15, 56);
 }
 
@@ -112,7 +116,7 @@ h3 {
 }
 
 #recursos h2 {
-    color: white;
+    color: rgb(19, 18, 18);
 }
 
 #recursos h3 {
