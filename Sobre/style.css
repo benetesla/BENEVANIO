@@ -104,6 +104,12 @@ body {
     margin-top: 30px;
 }
 
+h1 {
+    font-size: 2em;
+    color: rgb(23, 16, 51);
+    margin-top: 30px;
+}
+
 .Botao {
     width: 150px;
     height: 150px;
