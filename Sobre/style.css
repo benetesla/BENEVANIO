@@ -120,3 +120,8 @@ h1 {
     color: rgb(255, 255, 255);
     font-size: xx-large;
 }
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
